@@ -1,0 +1,22 @@
+
+@font-face{
+    font-family: Abel;
+    src: url("../fonts/Abel/Abel-Regular.ttf");
+}
+@font-face{
+    font-family: Bebas;
+    src: url("../fonts/Bebas_Neue/BebasNeue-Regular.ttf");
+}
+@font-face{
+    font-family: Oswald;
+    src: url("../fonts/Oswald/static/Oswald-Medium.ttf");
+}
+@font-face{
+    font-family: Roboto;
+    src: url("../fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf");
+}
+@font-face{
+    font-family: Titillium;
+    src: url("../fonts/Titillium_Web/TitilliumWeb-SemiBold.ttf");
+}
+
